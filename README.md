@@ -1,5 +1,5 @@
 # PEW-SegDiff
 
-![GitHub Logo](/fig.png)
+![image](fig3.png)
 
 #We'll upload the code here later.
